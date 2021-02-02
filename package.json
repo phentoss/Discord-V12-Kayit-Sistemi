@@ -1,0 +1,26 @@
+{
+  "name": "discord-bos-altyapi",
+  "version": "0.0.1",
+  "description": "DJSV12 Boş Altyapı",
+  "main": "phentos.js",
+  "scripts": {
+    "start": "node phentos.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "moment": "^2.29.1",
+    "chalk": "^4.1.0",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Piece",
+    "Serendia"
+  ]
+}

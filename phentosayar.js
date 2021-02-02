@@ -1,6 +1,6 @@
 module.exports = {
-  "token": "ODAxMzcxMzI5MTAxMTY4NjQw.YAftNQ.RTtzdAuxkhLbH3EFShIC9NRa2xs",
-  "geliştiriciler": ["383627939989946369"], 
+  "token": "token",
+  "geliştiriciler": "sahipid", 
   "prefix": "!",
   "register": "",
   "erkekrol": "",
